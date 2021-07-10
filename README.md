@@ -7,15 +7,19 @@
 
 На тестирование затрачено: 5 часов
 
-В результате тестирования выявлены следующие дефекты:
-* https://docs.google.com/spreadsheets/d/1L7RbSQVgPIr7GgAsCz8--li09Vp0DK1EPPw0HliKWbw/edit?usp=sharing
-
+В результате тестирования выявлены следующие дефекты (смотри Issues данного репозитория):
+* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/1
+* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/2
+* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/3
+* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/4
+* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/5
+* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/6
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* <Тест-кейс #1>
-* <Тест -кейс #2>
+* Тест-кейс #1
+* Тест-кейс #2
 
 **Тест-кейс #1**
 
@@ -49,7 +53,7 @@ Expected Result: Result is FAIL
 
 В качестве тестовых данных использовались данные c сайта freeformatter.com и https://www.vccgenerator.com/ru для генерации фейковых валидных номеров банковских карт.
 
-Примечание: справа от номера карты указан Expected Result при исполнении соответсвующего тестового сценария.
+Примечание: справа от номера карты указан Actual Result при исполнении соответсвующего тестового сценария.
 ### **Валидные тестовые данные с ожидаемым результатом Result is OK:**
 1. Фейковые валидные номера банковских карт различных платежных систем в соответсвии с формулой **Luhn**
 
