@@ -8,12 +8,12 @@
 На тестирование затрачено: 5 часов
 
 В результате тестирования выявлены следующие дефекты (смотри Issues данного репозитория):
-* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/1
-* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/2
-* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/3
-* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/4
-* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/5
-* https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/6
+* [Валидация 19 значного валидного номера банковской карты платежной системы VISA](https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/1)
+* [Валидация 15 значного валидного номера банковской карты платежной системы American Express (AMEX) ](https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/2)
+* [Валидация 19 значного валидного номера банковской карты платежной системы Discover](https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/3)
+* [Валидация 19 значного валидного номера банковской карты платежной системы JCB](https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/4)
+* [Валидация 16 значного валидного номера банковской карты платежной системы Diners Club - Carte Blanche](https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/5)
+* [Валидация 14 значного валидного номера банковской карты платежной системы Diners Club - International](https://github.com/Dmitruzd21/Credit-Card-Number-Validator/issues/6)
 
 ## Описание процесса тестирования
 
